@@ -3,9 +3,9 @@
 PythonAPI with Flask, OpenAPI, Connexion
 ======================================
 
-This project aim to provide a simple API usin Python, Flask, Connexion installable in Odoo 12 in order to connect to your DynamoDb AWS
+This project aim to provide a simple API using Python, Flask, Connexion
 
- 
+ https://github.com/zalando/connexion
 ## Prerequisites:
   
  - To have Python 3.6+ installed 
@@ -24,3 +24,4 @@ First, install your virtual Environment for Python
 Run hello.py, your server will run in localhost.
 To see a GUI version of the API, go to 
 [http://localhost:9090/v1.0/ui/]
+
